@@ -6,7 +6,7 @@
       linkedin : https://www.linkedin.com/in/chetan-dehane-3651551aa/ <br>
       instagram : https://www.instagram.com/chetan_dehane/          <br>
       Gmail : chetandehane007@gmail.com                        <br>
-      Website: chetandehane@github.io
+      Website: https://chetandehane.github.io/
 
 <!---
 ChetanDehane/ChetanDehane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
