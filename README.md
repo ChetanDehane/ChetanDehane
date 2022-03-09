@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChetanDehane
 - 👀 I’m interested in web development, machine learning and programming
-- 🌱 I’m currently studying at smt. kashibai navale college of engineering,pune
+- 🌱 I’ve done my graduation from smt. kashibai navale college of engineering,pune
 - 💞️ I’m looking to contribute to open source projects.
 - 📫 How to reach me ... <br>
       <a href ="https://www.linkedin.com/in/chetan-dehane-3651551aa/" target = "_blank">linkedin</a> <br>
