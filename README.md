@@ -70,6 +70,6 @@ I’m a developer who has passion for building clean web applications with intui
         <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/chetan_dehane/">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
 		
-      </div>
+  </div>
 
 </p>
