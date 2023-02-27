@@ -5,7 +5,7 @@
 
 <p align='center'>
  
-<h1 align='center'>![visitors](https://visitor-badge.laobi.icu/badge?page_id=ChetanDehane.ChetanDehane)</h1>
+<img src = "https://visitor-badge.laobi.icu/badge?page_id=ChetanDehane.ChetanDehane" alt="visiter-count" width=150px height=50px/>
 
 <h1 align="center"></h1>
 <img align="left" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=zeeid&count_private=true&show_icons=true&theme=tokyonight" />
